@@ -1,4 +1,4 @@
-def Numbers_Squared2(a):
+def Numbers_Squared(a):
     i=1
     numbers = []
     while i <= a:
@@ -7,4 +7,6 @@ def Numbers_Squared2(a):
         if i**2 > 200:
             break
     print(numbers)
-Numbers_Squared2(5)
+
+#example    
+Numbers_Squared(15)
