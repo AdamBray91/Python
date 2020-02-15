@@ -4,5 +4,7 @@ def Numbers_Squared(a):
             print(i, i**2)
         else:
             break
+            
+#example            
 Numbers_Squared(17)
 
